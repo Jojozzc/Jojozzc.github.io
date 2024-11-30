@@ -1,1 +1,1 @@
-Jojo's pages.
+[Jojo's pages.](https://jojozzc.github.io/)
